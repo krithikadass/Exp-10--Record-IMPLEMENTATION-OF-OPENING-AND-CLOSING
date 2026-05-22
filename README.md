@@ -61,16 +61,19 @@ plt.axis('off')
 
 ### Display the input Image
 
-![alt text](image.png)
+<img width="693" height="560" alt="image" src="https://github.com/user-attachments/assets/c7f96df0-12de-4288-ae6b-059f68456bae" />
+
 
 
 ### Display the result of Opening
 
-![alt text](image-1.png)
+<img width="690" height="565" alt="image" src="https://github.com/user-attachments/assets/4783b490-c279-43f5-aa9d-5001ede13a9f" />
+
 
 ### Display the result of Closing
 
-![alt text](image-2.png)
+<img width="656" height="421" alt="image" src="https://github.com/user-attachments/assets/82250ac2-4c08-4e63-abcc-1ee9c96835f4" />
+
 
 
 ## Result
